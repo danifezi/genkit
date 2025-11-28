@@ -14,10 +14,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "genkit": "^1.0.4",
-    "@genkit-ai/googleai": "^1.0.4",
+    "@dataconnect/generated": "file:src/dataconnect-generated",
     "@genkit-ai/express": "^1.0.4",
+    "@genkit-ai/googleai": "^1.0.4",
     "express": "^4.21.0",
+    "genkit": "^1.0.4",
     "zod": "^3.23.8"
   },
   "devDependencies": {

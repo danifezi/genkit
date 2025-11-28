@@ -14,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@dataconnect/generated": "file:src/dataconnect-generated",
     "@genkit-ai/compat-oai": "^1.16.0",
     "genkit": "^1.16.0",
     "node-fetch": "3.3.2",
